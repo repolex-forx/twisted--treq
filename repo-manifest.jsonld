@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/treq/commit/99f17121ab7e42fa4f4d12578e45cf3a26e118d9",
       "git:hexsha": "99f17121ab7e42fa4f4d12578e45cf3a26e118d9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/twisted/treq/commit/8402eba194b9a26db09110dc36aaa242b24b25fe",
